@@ -19,7 +19,7 @@ C/C++/Java/PHP / HTML / CSS
   
 ## Connect with me:
 
-<a href="https://github.com/meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meahadi-hasan" height="30" width="40" /></a>
+<a href="https://github.com/meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="meahadi-hasan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-meahadi-hasan" height="30" width="40" /></a>
 <a href="https://fb.com/me.meahadihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.meahadihasan" height="30" width="40" /></a>
 <a href="https://instagram.com/opekkhaofficial10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opekkhaofficial10" height="30" width="40" /></a>
