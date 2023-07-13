@@ -12,9 +12,9 @@ Skills: C/C++/Java/PHP / HTML / CSS
 - 🔭 I’m currently working on Computer skills developing 
 - 🌱 I’m currently learning Javascript 
 - 💬 Ask me about  C,C++,PYTHON,JAVASCRIPT,HTML,CSS 
-- 📫 How to reach me: meahadihasanbd2020@gmail.com 
-
-
+- 📫 How to reach me: meahadihasanbd2020@gmail.com
+  
+## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/meahadi-hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-meahadi-hasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/me.meahadihasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/opekkhaofficial10/)  
 
 <h3 align="left">Languages and Tools:</h3>
