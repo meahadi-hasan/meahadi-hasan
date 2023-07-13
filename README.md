@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Meahadi Hasan
 #### I am a student & Web developer.
-![I am a student & Web developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-As-salamu alaykum, I'm Meahadi Hasan. 
+As-salamu alaykum.
+I'm Meahadi Hasan. 
 Now i live in Bogura, Bangladesh. 
-Now i am studying B.Sc in Computer Science and Engineering (CSE) at Pundra University of Science and Technology.
+Now i am studying B.Sc in Computer Science and Engineering (CSE) 
+at Pundra University of Science and Technology.
 
 Skills: C/C++/Java/PHP / HTML / CSS
 
