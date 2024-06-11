@@ -1,8 +1,8 @@
-# Hi 👋, I'm Meahadi Hasan
+# Hi 👋, This is Meahadi Hasan
 ## I am a student & Web developer.
 
 As-salamu alaykum. 
-I'm Meahadi Hasan.
+This is Meahadi Hasan.
 Now i live in Bogura, Bangladesh. 
 My home town Rajshahi. 
 Presently i am studying B.Sc in Computer Science and Engineering (CSE) 
@@ -10,12 +10,12 @@ at Pundra University of Science and Technology.
 
 
 ## Skills: 
-C/C++/Java/PHP / HTML / CSS
+C,Java,MySQL,MongoDB
 
 - 🔭 I’m currently working on Computer skills developing. 
 - 🌱 I’m currently learning Javascript. 
-- 💬 Ask me about  C,C++,PYTHON,JAVASCRIPT,HTML,CSS.
-- 📫 How to reach me: meahadihasanbd2020@gmail.com
+- 💬 Ask me about  C,Java,MySQL,MongoDB,HTML,CSS.
+- 📫 How to reach me: meahadihasan.cse.pub@gmail.com
   
 ## Connect with me:
 
