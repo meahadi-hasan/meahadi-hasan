@@ -10,7 +10,7 @@ at Pundra University of Science and Technology.
 
 
 ## Skills: 
-C,Java,MySQL,MongoDB
+C, Java, HTML, CSS, MySQL, MongoDB
 
 - 🔭 I’m currently working on Computer skills developing. 
 - 🌱 I’m currently learning Javascript. 
