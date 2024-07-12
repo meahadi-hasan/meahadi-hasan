@@ -4,7 +4,7 @@
 As-salamu alaykum. 
 This is Meahadi Hasan.
 Now i live in Bogura, Bangladesh. 
-My home town Rajshahi. 
+My home town Rajshahi Bangladesh. 
 Presently i am studying B.Sc in Computer Science and Engineering (CSE) 
 at Pundra University of Science and Technology.
 
