@@ -34,7 +34,7 @@ C, Java, HTML, CSS, MySQL, MongoDB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meahadi-hasan)](https://github.com/anuraghazra/github-readme-stats)
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meahadi-hasan&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meahadi-hasan)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meahadi-hasan)
 
