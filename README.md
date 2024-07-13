@@ -1,8 +1,10 @@
 # Hi 👋, This is Meahadi Hasan
 ## I am a student & Web developer.
 
-As-salamu alaykum. This is Meahadi Hasan. Now I live in Bogura, Bangladesh. My home town is Rajshahi, Bangladesh. 
-Presently, I am studying a B.Sc. in Computer Science and Engineering (CSE) at Pundra University of Science and Technology.
+As-salamu alaykum. This is Meahadi Hasan. Now I live in Bogura, Bangladesh. 
+My home town is Rajshahi, Bangladesh. 
+Presently, I am studying a B.Sc. in Computer Science and Engineering (CSE) 
+at Pundra University of Science and Technology.
 
 
 ## Skills: 
