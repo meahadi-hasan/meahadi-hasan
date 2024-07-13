@@ -36,10 +36,11 @@ C, Java, HTML, CSS, MySQL, MongoDB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=meahadi-hasan&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meahadi-hasan)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meahadi-hasan)
 
-![GitHub metrics](https://metrics.lecoq.io/meahadi-hasan)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meahadi-hasan)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=meahadi-hasan)  
 
-![Profile views](https://gpvc.arturio.dev/meahadi-hasan)  
+![Profile views](https://komarev.com/ghpvc/?username=meahadi-hasan)
+
