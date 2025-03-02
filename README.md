@@ -41,13 +41,14 @@ C, Java, HTML, CSS, MySQL, MongoDB
 ###
 ![](https://github-contributor-stats.vercel.app/api?username=meahadi-hasan&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=meahadi-hasan&icon=5&color=0)](https://visitcount.itsvg.in)
-
 <!-- Visitor Count Badge -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=meahadi-hasan.meahadi-hasan" alt="Visitor Count" />
 </p>
+---
+[![](https://visitcount.itsvg.in/api?id=meahadi-hasan&icon=5&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Footer -->
 <div align="center">
