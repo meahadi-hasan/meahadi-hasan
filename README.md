@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1zNVAxc8RSO5uYAoDYXEBtIhopt_Oq5ZB/view?usp=sharing" alt="Meahadi Hasan" width="250" align="right" style="border-radius: 10px; margin-left: 20px;"/>
+<img src="Images/GitHub Cover Image.png" alt="Meahadi Hasan" width="250" align="right" style="border-radius: 10px; margin-left: 20px;"/>
 Assalamu Alaikum Everyone! I’m Meahadi Hasan, a passionate Web Developer with a strong foundation in front-end development, responsive design, and user-friendly application development. I specialize in creating visually appealing and functional websites using HTML, CSS, JavaScript.
 
 Currently, I’m studying my B.Sc. in Computer Science & Engineering at Pundra University of Science & Technology. I’ve also completed virtual internships at CodSoft and Prodigy InfoTech, where I worked on real-world projects, including responsive web applications, weather apps, and interactive games. 
