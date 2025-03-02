@@ -1,10 +1,12 @@
-# Hi 👋, This is Meahadi Hasan
-## I am a student & Web developer.
+<img src="[images/profile.jpg](https://drive.google.com/file/d/1zNVAxc8RSO5uYAoDYXEBtIhopt_Oq5ZB/view?usp=sharing)" alt="Meahadi Hasan" width="250" align="right" style="border-radius: 10px; margin-left: 20px;"/>
+Assalamu Alaikum Everyone! I’m Meahadi Hasan, a passionate Web Developer with a strong foundation in front-end development, responsive design, and user-friendly application development. I specialize in creating visually appealing and functional websites using HTML, CSS, JavaScript.
 
-As-salamu alaykum. This is Meahadi Hasan. Now I live in Bogura, Bangladesh. 
-My home town is Rajshahi, Bangladesh. 
-Presently, I am studying a B.Sc. in Computer Science and Engineering (CSE) 
-at Pundra University of Science and Technology.
+Currently, I’m studying my B.Sc. in Computer Science & Engineering at Pundra University of Science & Technology. I’ve also completed virtual internships at CodSoft and Prodigy InfoTech, where I worked on real-world projects, including responsive web applications, weather apps, and interactive games. 
+
+I’m certified in Front-End Development by Meta, Web Development by IBM, and .NET Full Stack Development by Board Infinity. 
+
+I’m always eager to learn and grow in the field of web development, and I’m excited to contribute to innovative projects that make a difference. Let’s connect and explore opportunities to collaborate! 
+
 
 
 ## Skills: 
