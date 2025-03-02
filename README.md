@@ -1,4 +1,4 @@
-![logo](https://github.com/meahadi-hasan/meahadi-hasan/blob/main/GitHub Cover Image.png)
+![logo](https://github.com/meahadi-hasan/meahadi-hasan/blob/main/Images/GitHub%20Cover%20Image.png)
 # 💫About Me :
 Assalamu Alaikum Everyone! I’m Meahadi Hasan, a passionate Web Developer with a strong foundation in front-end development, responsive design, and user-friendly application development. I specialize in creating visually appealing and functional websites using HTML, CSS, JavaScript.
 
