@@ -48,17 +48,3 @@ C, Java, HTML, CSS, MySQL, MongoDB
 <div align="center">
   <p>Made with ❤️ by <a href="https://github.com/meahadi-hasan">Meahadi Hasan</a></p>
 </div>
-#
-![](https://github-readme-stats.vercel.app/api?username=meahadi-hasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=meahadi-hasan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meahadi-hasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-##
-![](https://github-profile-trophy.vercel.app/?username=meahadi-hasan&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-###
-![](https://github-contributor-stats.vercel.app/api?username=meahadi-hasan&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=meahadi-hasan&icon=5&color=0)](https://visitcount.itsvg.in)
-
