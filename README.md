@@ -41,13 +41,11 @@ I’m always eager to learn and grow in the field of web development, and I’m 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   </a>
-</p>
   <!-- Android Studio -->
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
   </a>
 </p>
-
 ---
 
 ## 🌐 Web Development
