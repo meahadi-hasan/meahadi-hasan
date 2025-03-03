@@ -1,5 +1,6 @@
 ![logo](https://github.com/meahadi-hasan/meahadi-hasan/blob/main/Images/GitHub%20Cover%20Image.png)
 # 💞About Me :
+--
 Assalamu Alaikum Everyone! I’m Meahadi Hasan, a passionate Web Developer with a strong foundation in front-end development, responsive design, and user-friendly application development. I specialize in creating visually appealing and functional websites using HTML, CSS, JavaScript.
 
 Currently, I’m studying my B.Sc. in Computer Science & Engineering at Pundra University of Science & Technology. I’ve also completed virtual internships at CodSoft and Prodigy InfoTech, where I worked on real-world projects, including responsive web applications, weather apps, and interactive games. 
@@ -9,7 +10,7 @@ I’m certified in Front-End Development by Meta, Web Development by IBM, and .N
 I’m always eager to learn and grow in the field of web development, and I’m excited to contribute to innovative projects that make a difference. Let’s connect and explore opportunities to collaborate! 
 
 ## 📫 Connect with me:
-
+--
 <a href="https://github.com/meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="meahadi-hasan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-meahadi-hasan" height="30" width="40" /></a>
 <a href="https://fb.com/me.meahadihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.meahadihasan" height="30" width="40" /></a>
@@ -17,20 +18,17 @@ I’m always eager to learn and grow in the field of web development, and I’m 
 <a href="https://www.hackerrank.com/meahadi_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meahadi_hasan" height="30" width="40" /></a>
 </p>  
 
----
 
 ## 🛠️ Skills
-
+--
 ### 💻 **Programming Languages**
 - **C**: Strong foundation in procedural programming and problem-solving.
 - **Java**: Proficient in object-oriented programming (OOP) and building applications.
 - **Python**: Familiar with scripting and automation.
 - **JavaScript**: Currently learning for web development and dynamic functionality.
 
----
-
 ## 🛠️ Tools & Platforms
-
+--
 <p align="left">
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -50,10 +48,8 @@ I’m always eager to learn and grow in the field of web development, and I’m 
   </a>
 </p>
 
----
-
 ## 🌐 Web Development
-
+--
 ### 🎨 Front-End
 <p align="left">
   <!-- HTML -->
@@ -92,20 +88,16 @@ I’m always eager to learn and grow in the field of web development, and I’m 
   </a>
 </p>
 
----
-
 ## 🚀 Hosting & Deployment
-
+--
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
 ## 🎨 Design
-
+--
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -124,7 +116,7 @@ I’m always eager to learn and grow in the field of web development, and I’m 
 ![](https://github-contributor-stats.vercel.app/api?username=meahadi-hasan&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 
----
+--
 <!-- Visitor Count Badge -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=meahadi-hasan.meahadi-hasan" alt="Profile Visitor" />
