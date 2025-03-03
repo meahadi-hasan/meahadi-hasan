@@ -22,18 +22,6 @@
   </div>
 </div>
 
-<style>
-  @media (max-width: 768px) {
-    div {
-      flex-direction: column !important;
-    }
-    img {
-      width: 100% !important;
-      max-width: 350px;
-    }
-  }
-</style> 
-
 ## 📫 Connect with me:
 
 <a href="https://github.com/meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="meahadi-hasan" height="30" width="40" /></a>
