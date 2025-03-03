@@ -1,18 +1,38 @@
 ![logo](https://github.com/meahadi-hasan/meahadi-hasan/blob/main/Images/GitHub%20Cover%20Image.png)
 
-# 💞About Me :
+## 💞 About Me
 
-<p align="center">
-    <img src="Images/coding.gif" alt="Coding GIF" width="350">
-</p>
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
+    <p>
+      Assalamu Alaikum Everyone! I’m Meahadi Hasan, a passionate Web Developer with a strong foundation in front-end development, responsive design, and user-friendly application development. I specialize in creating visually appealing and functional websites using HTML, CSS, JavaScript.
+    </p>
+    <p>
+      Currently, I’m studying my B.Sc. in Computer Science & Engineering at Pundra University of Science & Technology. I’ve also completed virtual internships at CodSoft and Prodigy InfoTech, where I worked on real-world projects, including responsive web applications, weather apps, and interactive games.
+    </p>
+    <p>
+      I’m certified in Front-End Development by Meta, Web Development by IBM, and .NET Full Stack Development by Board Infinity.
+    </p>
+    <p>
+      I’m always eager to learn and grow in the field of web development, and I’m excited to contribute to innovative projects that make a difference. Let’s connect and explore opportunities to collaborate!
+    </p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="Images/coding.gif" alt="Coding Animation" width="350">
+  </div>
+</div>
 
-Assalamu Alaikum Everyone! I’m Meahadi Hasan, a passionate Web Developer with a strong foundation in front-end development, responsive design, and user-friendly application development. I specialize in creating visually appealing and functional websites using HTML, CSS, JavaScript.
-
-Currently, I’m studying my B.Sc. in Computer Science & Engineering at Pundra University of Science & Technology. I’ve also completed virtual internships at CodSoft and Prodigy InfoTech, where I worked on real-world projects, including responsive web applications, weather apps, and interactive games. 
-
-I’m certified in Front-End Development by Meta, Web Development by IBM, and .NET Full Stack Development by Board Infinity. 
-
-I’m always eager to learn and grow in the field of web development, and I’m excited to contribute to innovative projects that make a difference. Let’s connect and explore opportunities to collaborate! 
+<style>
+  @media (max-width: 768px) {
+    div {
+      flex-direction: column !important;
+    }
+    img {
+      width: 100% !important;
+      max-width: 350px;
+    }
+  }
+</style> 
 
 ## 📫 Connect with me:
 
