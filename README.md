@@ -46,7 +46,6 @@ I’m always eager to learn and grow in the field of web development, and I’m 
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
   </a>
 </p>
----
 
 ## 🌐 Web Development
 
