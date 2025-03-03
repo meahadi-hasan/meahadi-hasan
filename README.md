@@ -2,7 +2,7 @@
 
 # 💞About Me :
 
-<img src="coding.gif" alt="Description of image" width="350"  align="right">
+<img src="Images/coding.gif" alt="Description of image" width="350"  align="right">
 
 Assalamu Alaikum Everyone! I’m Meahadi Hasan, a passionate Web Developer with a strong foundation in front-end development, responsive design, and user-friendly application development. I specialize in creating visually appealing and functional websites using HTML, CSS, JavaScript.
 
