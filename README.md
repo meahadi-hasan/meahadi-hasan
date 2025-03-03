@@ -1,15 +1,5 @@
 ![logo](https://github.com/meahadi-hasan/meahadi-hasan/blob/main/Images/GitHub%20Cover%20Image.png)
-<div align="center">
-  <img src="header.jpg" alt="Header Banner" width="100%"/>
-</div>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=meahadi-hasan.meahadi-hasan" alt="Visitor Count" />
-</p>
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Your Name" width="200" height="200" style="border-radius: 50%;"/>
-</div>
 # 💞About Me :
 
 Assalamu Alaikum Everyone! I’m Meahadi Hasan, a passionate Web Developer with a strong foundation in front-end development, responsive design, and user-friendly application development. I specialize in creating visually appealing and functional websites using HTML, CSS, JavaScript.
