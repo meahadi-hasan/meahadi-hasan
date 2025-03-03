@@ -17,6 +17,7 @@ I’m always eager to learn and grow in the field of web development, and I’m 
 <a href="https://www.hackerrank.com/meahadi_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meahadi_hasan" height="30" width="40" /></a>
 </p>  
 
+---
 
 ## 🛠️ Skills
 
@@ -25,6 +26,8 @@ I’m always eager to learn and grow in the field of web development, and I’m 
 - **Java**: Proficient in object-oriented programming (OOP) and building applications.
 - **Python**: Familiar with scripting and automation.
 - **JavaScript**: Currently learning for web development and dynamic functionality.
+
+---
 
 ## 🛠️ Tools & Platforms
 
@@ -46,6 +49,8 @@ I’m always eager to learn and grow in the field of web development, and I’m 
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 ## 🌐 Web Development
 
@@ -87,55 +92,25 @@ I’m always eager to learn and grow in the field of web development, and I’m 
   </a>
 </p>
 
+---
+
 ## 🚀 Hosting & Deployment
 
-<p align="left">
-  <!-- Netlify -->
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
-  </a>
-  <!-- Vercel -->
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
-  </a>
-  <!-- Heroku -->
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  </a>
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  </a>
-</p>
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
 
 ## 🎨 Design
 
-<p align="left">
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <!-- Adobe XD -->
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="Adobe XD" width="40" height="40"/>
-  </a>
-  <!-- Photoshop -->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <!-- Illustrator -->
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  </a>
-  <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
-  </a>
-</p>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white)
   
 #
 ![](https://github-readme-stats.vercel.app/api?username=meahadi-hasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -152,7 +127,7 @@ I’m always eager to learn and grow in the field of web development, and I’m 
 ---
 <!-- Visitor Count Badge -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=meahadi-hasan.meahadi-hasan" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=meahadi-hasan.meahadi-hasan" alt="Profile Visitor" />
 </p>
 
 <!-- Footer -->
