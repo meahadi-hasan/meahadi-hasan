@@ -1,6 +1,6 @@
 ![logo](https://github.com/meahadi-hasan/meahadi-hasan/blob/main/Images/GitHub%20Cover%20Image.png)
-# 💞About Me :
----
+# 💞About Me : --
+
 Assalamu Alaikum Everyone! I’m Meahadi Hasan, a passionate Web Developer with a strong foundation in front-end development, responsive design, and user-friendly application development. I specialize in creating visually appealing and functional websites using HTML, CSS, JavaScript.
 
 Currently, I’m studying my B.Sc. in Computer Science & Engineering at Pundra University of Science & Technology. I’ve also completed virtual internships at CodSoft and Prodigy InfoTech, where I worked on real-world projects, including responsive web applications, weather apps, and interactive games. 
@@ -10,7 +10,7 @@ I’m certified in Front-End Development by Meta, Web Development by IBM, and .N
 I’m always eager to learn and grow in the field of web development, and I’m excited to contribute to innovative projects that make a difference. Let’s connect and explore opportunities to collaborate! 
 
 ## 📫 Connect with me:
---
+
 <a href="https://github.com/meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="meahadi-hasan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-meahadi-hasan" height="30" width="40" /></a>
 <a href="https://fb.com/me.meahadihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.meahadihasan" height="30" width="40" /></a>
