@@ -10,13 +10,74 @@ I’m always eager to learn and grow in the field of web development, and I’m 
 
 
 
-## 🛠 Skills: 
-C, Java, HTML, CSS, MySQL, MongoDB
+## 🛠️ Skills
 
-- 🔭 I’m currently working on Computer skills developing. 
-- 🌱 I’m currently learning Javascript. 
-- 💬 Ask me about  C,Java,MySQL,MongoDB,HTML,CSS.
-- 📫 How to reach me: meahadihasan.cse.pub@gmail.com
+### 💻 **Programming Languages**
+- **C**: Strong foundation in procedural programming and problem-solving.
+- **Java**: Proficient in object-oriented programming (OOP) and building applications.
+- **Python**: Familiar with scripting and automation.
+- **JavaScript**: Currently learning for web development and dynamic functionality.
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <!-- Android Studio -->
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Web Development
+
+### 🎨 Front-End
+<p align="left">
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+</p>
+
+### ⚙️ Back-End
+<p align="left">
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+</p>
+
+### 🗃️ Database
+<p align="left">
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+</p>
   
 ## 📫 Connect with me:
 
