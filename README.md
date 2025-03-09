@@ -36,7 +36,7 @@
 </p>  
 
 
-## 🛠️ Skills
+## 💻 Tech Stack
 
 ### 💻 **Programming Languages**
 - **C**: Strong foundation in procedural programming and problem-solving.
@@ -44,7 +44,7 @@
 - **Python**: Familiar with scripting and automation.
 - **JavaScript**: Currently learning for web development and dynamic functionality.
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <p align="left">
   <!-- Git -->
@@ -65,7 +65,7 @@
   </a>
 </p>
 
-## 🌐 Web Development
+### 🌐 Web Development
 
 ### 🎨 Front-End
 <p align="left">
@@ -105,7 +105,7 @@
   </a>
 </p>
 
-## 🚀 Hosting & Deployment
+### 🚀 Hosting & Deployment
 
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
@@ -113,7 +113,7 @@
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
-## 🎨 Design
+### 🎨 Design
 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
