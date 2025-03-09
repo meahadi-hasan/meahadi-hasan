@@ -27,25 +27,23 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meahadi-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="meahadi-hasan"/> </p>
 
 ### 📫 Connect with me:
-
 <p align="left">
-    <a href="https://github.com/meahadi-hasan" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <a href="https://github.com/YOUR_USERNAME" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
     </a>
-    <a href="https://linkedin.com/in/md-meahadi-hasan" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
     </a>
-    <a href="https://fb.com/me.meahadihasan" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <a href="https://www.facebook.com/YOUR_USERNAME" target="_blank">
+        <img src="https://skillicons.dev/icons?i=facebook" width="40" alt="Facebook"/>
     </a>
-    <a href="https://www.instagram.com/md.meahadihasan" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
     </a>
-    <a href="https://www.hackerrank.com/meahadi_hasan" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <a href="https://YOUR_HASHNODE_URL" target="_blank">
+        <img src="https://skillicons.dev/icons?i=hashnode" width="40" alt="Hashnode"/>
     </a>
 </p>
-
 
 
 ## 💻 Tech Stack
