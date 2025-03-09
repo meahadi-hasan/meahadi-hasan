@@ -40,26 +40,26 @@
 ### 💻 **Programming Languages**
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
       <br>C++
     </td>          
  </tr>
