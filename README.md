@@ -34,98 +34,77 @@
 <a href="https://www.hackerrank.com/meahadi_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meahadi_hasan" height="30" width="40" /></a>
 </p>
 
-
 ## 💻 Tech Stack
 
 ### 💻 **Programming Languages**
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="left">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
-      <br>C++
-    </td>          
- </tr>
-</table>
-</div>
-
-### 🛠️ Tools & Platforms
-
 <p align="left">
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40" />
+  </a>
+</p>
+
+### 🛠️ **Tools & Platforms**
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <a href="https://github.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-  <!-- Android Studio -->
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
   </a>
 </p>
 
-### 🌐 Web Development
-
-### 🎨 Front-End
+### 🌐 **Web Development**
+#### 🎨 Front-End
 <p align="left">
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
   </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 </p>
 
-### ⚙️ Back-End
+#### ⚙️ Back-End
 <p align="left">
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
   </a>
-  <!-- Express.js -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
   </a>
 </p>
 
-### 🗃️ Database
+### 🗃️ **Database**
 <p align="left">
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
+
 
 ### 🚀 Hosting & Deployment
 
