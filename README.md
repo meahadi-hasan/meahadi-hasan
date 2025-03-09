@@ -5,7 +5,7 @@
 <div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     <p>
-      Assalamu Alaikum Everyone! I’m Meahadi Hasan, a passionate Web Developer with a strong foundation in front-end development, responsive design, and user-friendly application development. I specialize in creating visually appealing and functional websites using HTML, CSS, JavaScript.
+      Assalamu Alaikum! I’m Meahadi Hasan, a passionate Web Developer with a strong foundation in front-end development, responsive design, and user-friendly application development. I specialize in creating visually appealing and functional websites using HTML, CSS, JavaScript.
     </p>
     <p>
       Currently, I’m studying my B.Sc. in Computer Science & Engineering at Pundra University of Science & Technology. I’ve also completed virtual internships at CodSoft and Prodigy InfoTech, where I worked on real-world projects, including responsive web applications, weather apps, and interactive games.
