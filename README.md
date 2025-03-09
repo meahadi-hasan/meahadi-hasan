@@ -37,90 +37,158 @@
 ## 💻 Tech Stack
 
 ### 💻 **Programming Languages**
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <!-- C++ -->
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40"/>
-  </a>
-</p>
+<div align="left">
+  <table>
+    <tr>
+      <!-- Python -->
+      <td align="center" width="96">
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40"/>
+        </a>
+        <br>Python
+      </td>
+      <!-- JavaScript -->
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/>
+        </a>
+        <br>JavaScript
+      </td>
+      <!-- TypeScript -->
+      <td align="center" width="96">
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40"/>
+        </a>
+        <br>TypeScript
+      </td>
+      <!-- Java -->
+      <td align="center" width="96">
+        <a href="https://www.java.com" target="_blank" rel="noreferrer">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" height="40"/>
+        </a>
+        <br>Java
+      </td>
+      <!-- C++ -->
+      <td align="center" width="96">
+        <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40"/>
+        </a>
+        <br>C++
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🛠️ Tools & Platforms
-<p align="left">
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <!-- Android Studio -->
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
-  </a>
-</p>
+### 🛠️ **Tools & Platforms**
+<div align="left">
+  <table>
+    <tr>
+      <!-- Git -->
+      <td align="center" width="96">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+        </a>
+        <br>Git
+      </td>
+      <!-- GitHub -->
+      <td align="center" width="96">
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+        </a>
+        <br>GitHub
+      </td>
+      <!-- Linux -->
+      <td align="center" width="96">
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+        </a>
+        <br>Linux
+      </td>
+      <!-- Android Studio -->
+      <td align="center" width="96">
+        <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
+        </a>
+        <br>Android Studio
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🌐 Web Development
+### 🌐 **Web Development**
 
 #### 🎨 Front-End
-<p align="left">
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-</p>
+<div align="left">
+  <table>
+    <tr>
+      <!-- HTML -->
+      <td align="center" width="96">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
+        </a>
+        <br>HTML5
+      </td>
+      <!-- CSS -->
+      <td align="center" width="96">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40"/>
+        </a>
+        <br>CSS3
+      </td>
+      <!-- JavaScript -->
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
+        </a>
+        <br>JavaScript
+      </td>
+    </tr>
+  </table>
+</div>
 
 #### ⚙️ Back-End
-<p align="left">
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <!-- Express.js -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-</p>
+<div align="left">
+  <table>
+    <tr>
+      <!-- Node.js -->
+      <td align="center" width="96">
+        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+        </a>
+        <br>Node.js
+      </td>
+      <!-- Express.js -->
+      <td align="center" width="96">
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
+        </a>
+        <br>Express.js
+      </td>
+    </tr>
+  </table>
+</div>
 
 #### 🗃️ Database
-<p align="left">
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-</p>
+<div align="left">
+  <table>
+    <tr>
+      <!-- MySQL -->
+      <td align="center" width="96">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+        </a>
+        <br>MySQL
+      </td>
+      <!-- MongoDB -->
+      <td align="center" width="96">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+        </a>
+        <br>MongoDB
+      </td>
+    </tr>
+  </table>
+</div>
   
 #
 ![](https://github-readme-stats.vercel.app/api?username=meahadi-hasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
