@@ -38,13 +38,11 @@
 
 ## 💻 Tech Stack
 
-### 💻 **Programming Languages**
-- ![C](https://techstack-generator.vercel.app/c-icon.svg) **C**: Strong foundation in procedural programming and problem-solving.
-- ![Java](https://techstack-generator.vercel.app/java-icon.svg) **Java**: Proficient in object-oriented programming (OOP) and building applications.
-- ![Python](https://techstack-generator.vercel.app/python-icon.svg) **Python**: Familiar with scripting, automation, and data analysis.
-- ![JavaScript](https://techstack-generator.vercel.app/js-icon.svg) **JavaScript**: Currently learning for web development and dynamic functionality.
-- ![C++](https://techstack-generator.vercel.app/cpp-icon.svg) **C++**: Strong understanding of OOP and competitive programming.
-- ![TypeScript](https://techstack-generator.vercel.app/ts-icon.svg) **TypeScript**: Enhancing JavaScript with static typing for scalable applications.
+### 💻 **Programming Languages**  
+- <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C icon" width="50" height="50" /> **C**: Strong foundation in procedural programming and problem-solving.  
+- <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="50" height="50" /> **Java**: Proficient in object-oriented programming (OOP) and building applications.  
+- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="50" height="50" /> **Python**: Familiar with scripting and automation.  
+- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="50" height="50" /> **JavaScript**: Currently learning for web development and dynamic functionality.  
 
 ### 🛠️ Tools & Platforms
 
