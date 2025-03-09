@@ -29,7 +29,7 @@
 ### 📫 Connect with me:
 <p align="left">
     <a href="https://github.com/YOUR_USERNAME" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
     </a>
     <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
