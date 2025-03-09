@@ -27,34 +27,21 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meahadi-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="meahadi-hasan"/> </p>
 
 ### 📫 Connect with me:
-<p align="left">
-    <a href="https://github.com/YOUR_USERNAME" target="_blank">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-    </a>
-    <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.facebook.com/YOUR_USERNAME" target="_blank">
-        <img src="https://skillicons.dev/icons?i=facebook" width="40" alt="Facebook"/>
-    </a>
-    <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
-    </a>
-    <a href="https://YOUR_HASHNODE_URL" target="_blank">
-        <img src="https://skillicons.dev/icons?i=hashnode" width="40" alt="Hashnode"/>
-    </a>
+<a href="https://github.com/meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="meahadi-hasan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-meahadi-hasan" height="30" width="40" /></a>
+<a href="https://fb.com/me.meahadihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.meahadihasan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/md.meahadihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opekkhaofficial10" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/meahadi_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meahadi_hasan" height="30" width="40" /></a>
 </p>
 
 
 ## 💻 Tech Stack
 
-### 💻 **Programming Languages**  
-- <a href="https://github.com/meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="meahadi-hasan" height="30" width="40" /></a>
-- <a href="https://linkedin.com/in/md-meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-meahadi-hasan" height="30" width="40" /></a>
-- <a href="https://fb.com/me.meahadihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.meahadihasan" height="30" width="40" /></a>
-- <a href="https://www.instagram.com/md.meahadihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opekkhaofficial10" height="30" width="40" /></a>
-- <a href="https://www.hackerrank.com/meahadi_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meahadi_hasan" height="30" width="40" /></a>
-</p> 
+### 💻 **Programming Languages**
+- **C**: Strong foundation in procedural programming and problem-solving.
+- <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> **Java**: Proficient in object-oriented programming (OOP) and building applications.
+- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> **Python**: Familiar with scripting and automation.
+- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> **JavaScript**: Currently learning for web development and dynamic functionality.
 
 ### 🛠️ Tools & Platforms
 
