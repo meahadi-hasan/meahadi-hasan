@@ -35,7 +35,6 @@
 </p>
 
 ## 💻 Tech Stack
-
 ### 💻 **Programming Languages**
 <div align="left">
   <table>
@@ -47,26 +46,19 @@
         </a>
         <br>Python
       </td>
-      <!-- JavaScript -->
-      <td align="center" width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/>
-        </a>
-        <br>JavaScript
-      </td>
-      <!-- TypeScript -->
-      <td align="center" width="96">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40"/>
-        </a>
-        <br>TypeScript
-      </td>
       <!-- Java -->
       <td align="center" width="96">
         <a href="https://www.java.com" target="_blank" rel="noreferrer">
           <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" height="40"/>
         </a>
         <br>Java
+      </td>
+      <!-- C# -->
+      <td align="center" width="96">
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="40" height="40"/>
+        </a>
+        <br>C#
       </td>
       <!-- C++ -->
       <td align="center" width="96">
