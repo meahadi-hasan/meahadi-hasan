@@ -41,7 +41,7 @@
 ### 💻 **Programming Languages**
 - **C**: Strong foundation in procedural programming and problem-solving.
 - **Java**: Proficient in object-oriented programming (OOP) and building applications.
-- **Python**: Familiar with scripting and automation.
+- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> **Python**: Familiar with scripting and automation.
 - **JavaScript**: Currently learning for web development and dynamic functionality.
 
 ### 🛠️ Tools & Platforms
