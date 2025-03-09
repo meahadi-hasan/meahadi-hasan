@@ -22,6 +22,10 @@
   </div>
 </div>
 
+---
+<!-- Visitor Count Badge -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=meahadi-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="meahadi-hasan"/> </p>
+
 ## 📫 Connect with me:
 
 <a href="https://github.com/meahadi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="meahadi-hasan" height="30" width="40" /></a>
@@ -130,12 +134,7 @@
 
 
 ---
-<!-- Visitor Count Badge -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=meahadi-hasan.meahadi-hasan" alt="Profile Visitor" />
-</p>
-
 <!-- Footer -->
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/meahadi-hasan">Meahadi Hasan</a></p>
+  <p>Made with ❤️ by <a href="https://meahadi-hasan.netlify.app">Meahadi Hasan</a></p>
 </div>
